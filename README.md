@@ -16,3 +16,5 @@ Result type can be changed from recent to trending
 Language can be changed to the abbreviation for the supported languages.
 
 Find the list of supported languages within the Twitter API documentation @https://developer.twitter.com/en/docs/api-reference-index
+
+# You Must Have A Developer Account through Twitter and your own API Keys for this to work 
